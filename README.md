@@ -4,9 +4,9 @@
 
 <h3 align="left">Skills:</h3>
 
-- Automation Testing: Selenium, Core Python, Core Java, BDD, Test Automation
+- Automation Testing: Selenium, Core Java, BDD, Test Automation
 - QA Methodologies: Agile/SCRUM, Functional Testing, API Testing, SOAP
-- Programming & Scripting: Python, Java, Bash
+- Programming & Scripting: Java, Bash
 - Tools & Technologies: Jenkins, SQL, MySQL, Linux, Windows, Jira, REST, SOAP, AWS, Ansible, Git
 - Cloud Computing: AWS
 - Networking: Cisco Networking, CCNA
