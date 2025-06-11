@@ -1,21 +1,64 @@
 <h1 align="center">Hi 👋, I'm Sudheep Joseph Kurian</h1>
-<h3 align="center">An Automation test Engineer</h3>
+<h3 align="center">A Lead OSS System/test Engineer</h3>
 - 📄 Know about my experiences [https://www.linkedin.com/in/sudheep-joseph-kurian-921b5534/)
 
-<h3 align="left">Skills:</h3>
+## 🚀 Technical Stack
 
-- Automation Testing: Selenium, Core Java, BDD, Test Automation
-- QA Methodologies: Agile/SCRUM, Functional Testing, API Testing, SOAP
-- Programming & Scripting: Java, Bash
-- Tools & Technologies: Jenkins, SQL, MySQL, Linux, Windows, Jira, REST, SOAP, AWS, Ansible, Git
-- Cloud Computing: AWS
-- Networking: Cisco Networking, CCNA
-- DevOps: Jenkins, Ansible, Git, Continuous Integration
-- Soft Skills: Excellent written and verbal communication, Project Management, Decision-Making, Team Player
-- Additional Skills: Automation Solutions, Computer Science
+### 🧪 Testing & Automation
+- **Manual Testing**, **Selenium WebDriver/IDE**
+- **API Testing**: Postman, Rest Assured
+- **Performance Testing**: Apache JMeter
+- **Test Management**: Jira, Redmine
 
+### 🛠️ DevOps & CI/CD
+- Jenkins, GitHub Actions
+- Docker (Basics)
+- VM & OS Setup (Linux, Windows)
 
-<h3 align="left"></h3>
+### 📊 Monitoring & Observability
+- Grafana, Prometheus, Node Exporter
+- Custom Bash/Shell Scripts for alerting
+
+### 📦 Middleware & Messaging
+- Apache Tomcat, Resin
+- Kafka, Zookeeper, ActiveMQ, MQ
+
+### 🧮 Database & Reporting
+- Oracle, MySQL, MariaDB
+- SQL Developer
+- Tableau, Power BI
+
+### ☁️ Virtualization & Remote Access
+- VMware, RHEVM
+- Cisco VPN, VDI, ARCOS
+
+---
+
+## 🌐 Domains & Tools
+
+- **OSS/BSS Systems**
+- **Telecom – Network Inventory, Service Fulfillment, Service Assurance**
+- Service Virtualization: Postman, RestClient
+- Source Control: Git, GitHub
+- OS: Linux (RedHat, CentOS, Ubuntu), Windows (XP–11)
+
+---
+
+## 🏆 Leadership & Delivery Highlights
+
+- Owner of OSS environment stability across multiple projects and teams.
+- Led multiple **UAT & Go-Live** sessions with clients, ensuring on-time quality deliveries.
+- Built environments from scratch: VM, OS, DB, Apps—ready for testing and integration.
+- Implemented custom **Grafana dashboards** for proactive OSS monitoring and alerts.
+- Coordinated delivery across global teams (on-site/offshore) for telecom clients.
+
+---
+
+## 📅 Experience Timeline
+
+**Jan 2016 – Present**  
+Working in OSS QA, environment management, test engineering, and client coordination.
+
 <p align="left">
 </p>
 
